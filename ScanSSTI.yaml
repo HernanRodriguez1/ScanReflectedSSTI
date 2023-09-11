@@ -1,7 +1,7 @@
 id: ScanSSTI
 
 info:
-  name: Scanner Cross-Site Scripting Reflected
+  name: Scanner SSTI (Server Side Template Injection)  
   author: Hernan Rodriguez
   severity: Critical
   description: SSTI via GET parameter
