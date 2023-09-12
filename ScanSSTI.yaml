@@ -4,7 +4,7 @@ info:
   name: Scanner Cross-Site Scripting Reflected
   author: Hernan Rodriguez
   severity: Critical
-  description: SSTI via GET parameter
+  description: SSTI or CSTI via GET parameter
   reference: https://www.linkedin.com/in/hernanrodriguez-/
     - 
   tags: SSTI
