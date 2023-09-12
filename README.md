@@ -1,4 +1,5 @@
-# ScanSSTI
+# ScanReflectedSSTI
+
 Template Nuclei SSTI
 
 ```sh
