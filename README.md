@@ -5,5 +5,5 @@ Template Nuclei SSTI
 ```sh
 nuclei -u 'http://192.168.100.61/xvwa/vulnerabilities/ssti/?name=&submit=' -t ScanSSTI.yaml 
 ```
+![image](https://github.com/HernanRodriguez1/ScanReflectedSSTI/assets/66162160/4eaae9bf-985f-4981-8f80-ec5400aabe2c)
 
-![image](https://github.com/HernanRodriguez1/ScanSSTI/assets/66162160/9d5167cb-2090-43d3-8f0d-9b435976d4f5)
