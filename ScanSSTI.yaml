@@ -1,4 +1,4 @@
-id: ScanSSTI
+id: ScanReflectedSSTI
 
 info:
   name: Scanner Cross-Site Scripting Reflected
