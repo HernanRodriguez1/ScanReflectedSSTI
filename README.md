@@ -1,6 +1,12 @@
 # ScanReflectedSSTI
 
-Template Nuclei SSTI
+This script allows to find SSTI vulnerabilities with nuclei, taking advantage of this resource in its maximum analysis capacity.
+
+In the community I have not seen XSS Fuzzing with nuclei in general, only focused on exploitations by CVE
+
+## Testing Fuzzing GET
+
+In the first instance they must collect the urls with the GET parameters.
 
 ```sh
 cat url.txt | nuclei -t ScanSSTI.yaml
